@@ -1,0 +1,281 @@
+@media (max-width:1250px){
+    .wrap{
+        width: 90%;
+        margin: 0 auto;
+    }
+    #banner h1{
+        width: 100%;
+        font-size: 35px;
+        text-align: center;
+        margin: 33px auto;
+    }
+    .card{
+        width: 16%;
+        margin: 1,45px;
+    }
+    .card p{
+        display: block;
+        width: 90%;
+        text-align: center;
+        margin: 0 auto;
+    }
+    #articles{
+        width: 65%;
+    }
+    #articles article{
+        width: 97%;
+    }
+    #footer .wrap > div{
+        width: 26%;
+    }
+    #footer #browsers img{
+        width: 14%;
+    }
+    #footer h5{
+        font-size: 30px;
+    }
+}
+@media (max-width:1211px){
+    #footer .wrap > div{
+        width: 25%;
+    }
+    #footer #browsers img{
+        width: 13%;
+    }
+}
+@media (max-width:1155px){
+    .card{
+        width: 15%;
+    }
+    .card .category{
+        font-size: 17px;
+    }
+    .card .description{
+        font-size: 13px;
+    }
+
+}
+@media (max-width:1079px){
+    #articles{
+        width: 60%;
+    }
+  
+}
+@media (max-width:1066px){
+    #footer .wrap > div{
+        width: 24%;    
+    }
+    #footer #browsers img{
+        width: 12%;
+    }
+    
+}
+@media (max-width:952px){
+    #footer .wrap > div{
+        width: 23%;
+    }
+    #footer #browsers img{
+        width: 10%;
+    }
+    #footer h5{
+        font-size: 22px;
+        letter-spacing: 2px;
+    } 
+}
+@media (max-width:944px){
+    #articles{
+        width: 58%;
+    }
+}
+@media (max-width:924px){
+    .card{
+        width: 14%;
+        margin: 1,45px;
+    }
+    #footer img{
+        margin-bottom: 15px;
+        max-width: 100%;
+    }
+    
+}
+@media (max-width:899px){
+    #banner h1{
+        width: 100%;
+    }
+    #articles{
+        width: 55%;
+    }
+    #footer img{
+        margin-bottom: 15px;
+        max-width: 100%;
+    }
+}
+@media (max-width:839px){
+    #banner h1{
+        width: 100%;
+    }
+    #articles{
+        width: 50%;
+    }
+    #footer img{
+        margin-bottom: 15px;
+        max-width: 100%;
+    }
+}
+@media (max-width:862px){
+    #header{
+        width: 100%;
+        height: 120px;
+        padding-top: 20px;
+    }
+    #logo{
+        float: none;
+        margin: 0px auto;
+    }
+    #menu{
+        float: none;
+        width: 90%;
+        text-align: center;
+        margin: 0px auto;
+    }
+    #footer .wrap > div{
+        width: 20%;
+    }
+    #footer h5{
+        font-size: 18px;
+        padding: 2px;
+    }
+    #footer a {
+        font-size: 18px;
+    }
+    #footer img{
+        margin-bottom: 15px;
+        max-width: 100%;
+    }
+    .card{
+        height: auto;
+    }
+    .card .category{
+        font-size: 15px;
+        margin-top: -23px;
+    }
+    .card .Description{
+        display: none;
+    }
+    .data span {
+        font-size: 11px;
+      }
+    #articles article h4 a {
+        font-size: 20px;
+      }
+    #articles article p{
+        font-size: 12px;
+    }
+}
+@media (max-width:770px){
+    #banner h1{
+        font-size: 25px;
+    }
+    #lateral{
+        float: none;
+        width: 100%;
+        margin: 0px auto;
+        min-height: auto;
+        margin-top: 20px;
+    }
+    #articles{
+        float: none;
+        width: 100%;
+        margin: 0px auto;
+        min-height: auto;
+    }
+    .card{
+        float: none;
+        width: 100%;
+        margin: 0px auto;
+        min-height: auto;
+        margin-top: 40px;
+    }
+    #footer{
+        height: auto;
+    }
+    #footer .wrap > div{
+        width: 100%;
+        margin: 0px auto;
+        margin-top: 20px;
+    }
+    #footer h5{
+        width: 100%;
+        margin: 0px auto;
+        font-size: 25px;
+    }
+}
+@media (max-width:535px){
+    #menu ul li{
+        font-size: 20px;
+    }
+    #banner h1{
+    font-size: 20px;
+    }
+}
+@media (max-width:484px){
+    #header{
+        margin: 0px auto;
+        height: 260px;
+    }
+    #logo{
+        float: left;
+    }
+    #menu{
+        clear: both;
+        float: none;
+        width: 100%;
+        margin: 0px auto;
+        text-align: left;
+    }
+    #menu li{
+        width: 100%;
+        margin: 0px auto;
+    }
+    #menu ul li{
+        width: 100%;
+        line-height: 52px;
+    }
+    #menu ul li a{
+        width: 100%;
+        line-height: 52px;
+    }
+    #menu ul li a:hover{
+        color: #37bcf9;
+        transform: scale(1,1);
+    }
+    #banner {
+        height: 80px;
+        
+    }
+    #banner h1{
+        font-size: 15px;
+    }
+    #articles .data{
+        float: none;
+        margin: -10px;
+        border-radius: 0px 0px 0px 0px;
+    }
+    #articles article h4{
+        margin-top: 20px;
+    }
+}
+@media (max-width:360px){
+    #banner h1{
+        font-size: 12px;
+        }
+    #menu ul li{
+        width: 100%;
+        line-height: 48px;
+        font-size: 17px;
+    }
+    #menu ul li a{
+        width: 100%;
+        line-height: 48px;
+    }
+}
